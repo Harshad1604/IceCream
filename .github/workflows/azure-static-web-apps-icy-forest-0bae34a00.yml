@@ -31,6 +31,5 @@ jobs:
           action: "upload"
           app_location: Icecream-website-main/Icecream-website-main
           output_location: ""         # No build folder - plain HTML/CSS
-          skip_app_build: true  # tell the action not to perform any build steps
           
 
